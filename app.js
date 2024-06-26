@@ -55,3 +55,39 @@ function guess(){
         lblOutput.innerHTML = "Out Of Rounds ..."
     }
 }
+
+//------------------------------------------------------------------------------------------
+
+// let customers = [
+//     {
+//         name:"saman",
+//         age:12,
+//         address:"gamapaha"
+//     },
+//     12,
+//     [
+//         {
+//             name:"wimal"
+//         },
+//         {
+//             name:"kamal"
+//         },
+//         {
+//             name:"sunil"
+//         },
+//         12
+//     ],
+//     {},
+//     {},
+//     {},
+//     {}
+// ]
+
+// console.log(customers[2]);
+
+// customers[2].forEach(nameObj => {
+//     console.log(nameObj.name); 
+//     //console.log(nameObj['name']); 
+// })
+
+//---------------------------------------------------------------------------------------------
